@@ -1,0 +1,7 @@
+<tr align="right"><th>Code</th><th>Failure code DK</th><th>Description DK</th><th>Type</th><th>No</th><th>Defect Type</th><th>External</th><th>Internal</th></tr>
+<tr align="right"><td>1</td><td>1-T1 Ejector Outlet Blockage (Error 1)</td><td>T1 Ejector Outlet Blockage</td><td>Error</td><td>1</td><td>Module</td><td>yes</td><td>no</td></tr>
+
+
+<tr align="right"><th>Module SN</th><th>History</th><th># Messages</th><th># Warnings</th><th># Errors</th><th># Defects</th><th>Flush Count Total</th><th>MFBF</th><th>Average Evacuation Pressure</th><th>SD Evacuation Pressure</th><th>SD Evacuation Time</th><th>SD Pressure Time 1st</th><th>SD Boost Pressure</th><th>Average Altimeter</th><th>Max Compressor Temp</th><th>Average Comp Air Pressure</th></tr>
+<tr align="right"><td><i data-feather="eye"></i>03812-0621</td><td></td><td>96</td><td>30</td><td>0</td><td>0</td><td>63</td><td>63</td><td>3.3002222222222</td><td>0.48792298522018</td><td>0.20274657294148</td><td>0.53963526777094</td><td>0.023559748054575</td><td>1534.1833333333</td><td>76.8</td><td>5.47</td></tr>
+<tr align="right"><td><i data-feather="eye"></i>03813-0621</td><td></td><td>77</td><td>34</td><td>0</td><td>0</td><td>65</td><td>65</td><td>3.109761904762</td><td>0.5117220604197</td><td>0.1325871980222</td><td>0.51742494279708</td><td>0.016007367918068</td><td>1527.1298701299</td><td>72.4</td><td>5.078961038961</td></tr>
